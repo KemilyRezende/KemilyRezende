@@ -2,7 +2,7 @@
 
 🎓 Cursando o 9º período de Engenharia da Computação no CEFET-MG.
 
-💻 Apaixonada por desenvolvimento web, com foco em frontend e APIs. Também exploro inteligência artificial, ciência de dados e sistemas distribuídos.
+💻 Apaixonada por desenvolvimento de software, especialmente aplicações web, com foco em frontend e APIs. Também exploro inteligência artificial, ciência de dados e sistemas distribuídos.
 
 <br>
 <div align="center">
