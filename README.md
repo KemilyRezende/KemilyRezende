@@ -1,6 +1,6 @@
 ### Olá, me chamo Kemily! 👋
 
-🎓 Cursando o 9º período de Engenharia da Computação no CEFET-MG.
+🎓 Cursando o 10º período de Engenharia da Computação no CEFET-MG.
 
 💻 Apaixonada por desenvolvimento de software, especialmente aplicações web, com foco em frontend e APIs. Também exploro inteligência artificial, ciência de dados e sistemas distribuídos.
 
