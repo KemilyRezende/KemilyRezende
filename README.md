@@ -9,7 +9,6 @@
   <a href="https://github.com/KemilyRezende">
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=KemilyRezende&layout=compact&langs_count=7&theme=dracula" 
-      alt="Top Langs" 
       width="40%" 
     />
   </a>
